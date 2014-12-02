@@ -1,8 +1,11 @@
 # PHP Vagrant Stacks
 Various stacks configurations for rapid creation of development environments in PHP.
 #### [panique/vagrant-lamp-bootstrap](https://github.com/panique/vagrant-lamp-bootstrap)
+Excelent PHP stack. Just the basic components. 
 #### [scotch-io/scotch-box](https://github.com/scotch-io/scotch-box)
+Very similar to [panique/vagrant-lamp-bootstrap](https://github.com/panique/vagrant-lamp-bootstrap) with a few extras.
 #### [chad-thompson/vagrantpress](https://github.com/chad-thompson/vagrantpress)
+Ideal box for Wordpress Theme Development.
 
 #### Basic stuff to remeber before use one of this configuration. 
 1. Check that your host machine has Virtualization Technology enable on the Bios Utilities. Most applicable for Windows users. 
