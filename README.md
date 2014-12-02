@@ -9,6 +9,9 @@ Ideal box for Wordpress Theme Development.
 #### [Laravel Homestead](http://laravel.com/docs/4.2/homestead)
 De facto box of the [Laravel Framework](http://laravel.com/).
 
+#### Vagrant Manager for [OS X](http://vagrantmanager.com/) and [Windows](http://vagrantmanager.com/windows/)
+A tool that I recently added to the development workflow. Right now Open Source for OS X and Windows.
+
 #### Basic stuff to remeber before use one of this configuration. 
 1. Check that your host machine has Virtualization Technology enable on the Bios Utilities. Most applicable for Windows users. 
 2. Virtual Box and Vagrant should be already installed in your host machine.
