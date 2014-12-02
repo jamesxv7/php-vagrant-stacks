@@ -9,6 +9,7 @@ Ideal box for Wordpress Theme Development.
 #### [Laravel Homestead](http://laravel.com/docs/4.2/homestead)
 De facto box of the [Laravel Framework](http://laravel.com/).
 
+## Extra Tools
 #### Vagrant Manager for [OS X](http://vagrantmanager.com/) and [Windows](http://vagrantmanager.com/windows/)
 A tool that I recently added to the development workflow. Right now Open Source for OS X and Windows.
 
