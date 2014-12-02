@@ -15,7 +15,7 @@ De facto box of the [Laravel Framework](http://laravel.com/).
 4. Read at least the [Getting Started](https://docs.vagrantup.com/v2/getting-started/) section of the Vagrant documentation.
 
 ### Want a custom solution?
-Try the following services.
+Try the one of following services. They basically create everything that is needed to boot the virtual machine. Also they provide the configurations files to start creating the development environment according to your needs. 
 #### [PuPHPet](https://puphpet.com/)
 #### [Rove.io](http://rove.io/)
 
