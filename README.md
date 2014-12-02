@@ -7,7 +7,7 @@ Very similar to [panique/vagrant-lamp-bootstrap](https://github.com/panique/vagr
 #### [chad-thompson/vagrantpress](https://github.com/chad-thompson/vagrantpress)
 Ideal box for Wordpress Theme Development.
 #### [Laravel Homestead](http://laravel.com/docs/4.2/homestead)
-De facto box for [Laravel Framework](http://laravel.com/).
+De facto box of the [Laravel Framework](http://laravel.com/).
 
 #### Basic stuff to remeber before use one of this configuration. 
 1. Check that your host machine has Virtualization Technology enable on the Bios Utilities. Most applicable for Windows users. 
