@@ -11,7 +11,7 @@ De facto box of the [Laravel Framework](http://laravel.com/).
 
 #### Basic stuff to remeber before use one of this configuration. 
 1. Check that your host machine has Virtualization Technology enable on the Bios Utilities. Most applicable for Windows users. 
-2. Virtual Box and Vagrant should already installed in your host machine.
+2. Virtual Box and Vagrant should be already installed in your host machine.
 4. Read at least the [Getting Started](https://docs.vagrantup.com/v2/getting-started/) section of the Vagrant documentation.
 
 ### Want a custom solution?
