@@ -14,8 +14,8 @@ De facto box of the [Laravel Framework](http://laravel.com/).
 2. Virtual Box and Vagrant should already installed in your host machine.
 4. Read at least the [Getting Started](https://docs.vagrantup.com/v2/getting-started/) section of the Vagrant documentation.
 
-### Wants a custom solution?
+### Want a custom solution?
 Try the following services.
-https://puphpet.com/
-http://rove.io/
+#### [PuPHPet](https://puphpet.com/)
+#### [Rove.io](http://rove.io/)
 
