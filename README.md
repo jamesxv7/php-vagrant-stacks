@@ -25,6 +25,6 @@ A tool that I recently added to the development workflow. Right now Open Source 
 
 ### Want a custom solution?
 Try the one of following services. They basically create everything that is needed to boot the virtual machine. Also they provide the configurations files to start creating the development environment according to your needs. 
--#### [PuPHPet](https://puphpet.com/)
--#### [Rove.io](http://rove.io/)
+#### [PuPHPet](https://puphpet.com/)
+#### [Rove.io](http://rove.io/)
 
