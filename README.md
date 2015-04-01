@@ -9,7 +9,10 @@ Ideal box for Wordpress Theme Development.
 #### [Laravel Homestead](http://laravel.com/docs/4.2/homestead)
 De facto box of the [Laravel Framework](http://laravel.com/).
 #### [kleiram/vagrant-symfony](https://github.com/kleiram/vagrant-symfony)
-Vagrant configuration for Symfony development. Provision is through Ansible so Windows users will not be able to use it unless by changing the provisioning provider.  
+Vagrant configuration for Symfony development. Provision is through Ansible so Windows users will not be able to use it unless by changing the provisioning provider. 
+
+###[rlerdorf/php7dev](https://github.com/rlerdorf/php7dev)
+Vagrant configuration preconfigured for testing PHP apps and developing extensions across many versions of PHP.
 
 #### Basic stuff to remeber before use one of this configuration. 
 1. Check that your host machine has Virtualization Technology enable on the Bios Utilities. Most applicable for Windows users. 
